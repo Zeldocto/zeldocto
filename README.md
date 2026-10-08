@@ -23,7 +23,7 @@ I build tools that make it easier for speedrunners to practice, route, customize
 | [**zeldocto.github.io**](https://github.com/zeldocto/zeldocto.github.io) | Personal website + various speedrunning tools |
 | [**delfino-ghosts**](https://github.com/zeldocto/delfino-ghosts) | A place to upload your Moonshine ghosts |
 | [**moonshine-customs**](https://github.com/zeldocto/moonshine-customs) | Skin website for Moonshine skins |
-| [**LoadAnalyzer**](https://github.com/zeldocto/LoadAnalyzer) | Frame-accurate SMS load time remover that detects black loading screens in recorded runs |
+| [**LoadAnalyzer**](https://github.com/zeldocto/LoadAnalyzer) | WIP SMS load time remover that detects black loading screens |
 | [**Livesplit.BestWorldSegments**](https://github.com/Zeldocto/Livesplit.BestWorldSegments) | Livesplit component to show best world segments |
 
 ---
