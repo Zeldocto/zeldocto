@@ -28,18 +28,6 @@ I build tools that make it easier for speedrunners to practice, route, customize
 
 ---
 
-## 📊 Battle Stats
-
-<p align="center">
-  <img src="stats/contributions.svg" alt="Total contributions" width="100%" />
-</p>
-
-<p align="center">
-  <img src="stats/activity.svg" alt="Activity graph" width="100%" />
-</p>
-
----
-
 ### 👀 Total Visitors
 
 <p align="center">
