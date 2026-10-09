@@ -1,4 +1,3 @@
-<!-- Banner: replace assets/banner.png with any image (png/jpg/gif). It stretches to the page width and keeps its aspect ratio. -->
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
@@ -8,7 +7,7 @@
   <a href="https://zeldocto.github.io"><img src="https://img.shields.io/badge/Website-006d77?logo=githubpages&logoColor=white&style=flat" alt="Website" /></a>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Theo** (aka **zeldocto**), head moderator and maintainer of the **Super Mario Sunshine individual level leaderboard** and an active member of the SMS speedrunning community.
 
@@ -16,7 +15,7 @@ I build tools that make it easier for speedrunners to practice, route, customize
 
 ---
 
-## 📂 Repositories
+## Repositories
 
 | Repo | Description |
 | --- | --- |
@@ -25,11 +24,3 @@ I build tools that make it easier for speedrunners to practice, route, customize
 | [**moonshine-customs**](https://github.com/zeldocto/moonshine-customs) | Skin website for Moonshine skins |
 | [**LoadAnalyzer**](https://github.com/zeldocto/LoadAnalyzer) | WIP SMS load time remover that detects black loading screens |
 | [**Livesplit.BestWorldSegments**](https://github.com/Zeldocto/Livesplit.BestWorldSegments) | Livesplit component to show best world segments |
-
----
-
-### 👀 Total Visitors
-
-<p align="center">
-  <img src="https://count.getloli.com/@:zeldocto?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Visitor count" />
-</p>
